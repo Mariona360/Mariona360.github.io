@@ -39,3 +39,26 @@
     background-color:#53DD6C;
 }
 
+.p-container{
+    width: 100%;
+    padding: 0 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 180vh;
+}
+
+.c-description{
+    color:#FEFFFE;
+    text-align: justify;
+}
+.d-btn{
+    color: #000000;
+    text-transform: uppercase;
+    padding: 24px;
+    margin: 24px;
+    min-height: 24px;
+    text-align: left;
+    transition: 0.3s ease-in-out;
+}
