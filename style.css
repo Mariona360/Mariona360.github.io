@@ -62,3 +62,7 @@
     text-align: left;
     transition: 0.3s ease-in-out;
 }
+
+img{
+    width: 100%;
+}
